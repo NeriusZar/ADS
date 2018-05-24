@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520329183 source:c:\users\neriu\desktop\stekas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funkcijos.h"
+
+1520329066 source:c:\users\neriu\desktop\stekas\funkcijos.c
+	<stdio.h>
+	<stdlib.h>
+	"funkcijos.h"
+
+1520327458 c:\users\neriu\desktop\stekas\funkcijos.h
+
